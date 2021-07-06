@@ -43,8 +43,8 @@ body{
     display: flex;
 }
 .about-me-left img{
-    width: 80%;
-    height: auto;
+    width: 90%;
+    height: 100%;
 }
 .about-me-right h1{
     font-size: 40px;
