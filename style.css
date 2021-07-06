@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Montserrat', sans-serif;;
+}
+.banner_area{
+    display: flex;
+    text-align: center;
+}
+.half-width{
+    width: 40%;
+    margin: 2.5%;
+
+}
+.banner-left{
+    padding-top: 35%;
+}
